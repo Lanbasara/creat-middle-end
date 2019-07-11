@@ -1,0 +1,35 @@
+{
+    "name": "create-middle-end",
+    "version": "1.0.0",
+    "description": "快速创建React+Antd+Dva环境的脚手架工具，并默认配置了完善了webpack打包环境",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "create-middle-end": "bin/create-middle-end"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Lanbasara/creat-middle-end.git"
+    },
+    "keywords": [
+        "cli",
+        "zw"
+    ],
+    "author": "lanbasara",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Lanbasara/creat-middle-end/issues"
+    },
+    "homepage": "https://github.com/Lanbasara/creat-middle-end#readme",
+    "dependencies": {
+        "chalk": "^2.4.2",
+        "commander": "^2.19.0",
+        "download-git-repo": "^1.1.0",
+        "inquirer": "^6.2.2",
+        "ora": "^3.2.0",
+        "shelljs": "^0.8.3",
+        "yargs": "^13.2.2"
+    }
+}
