@@ -20,7 +20,7 @@ if(command[0] === 'create' || command[1] !== '') {
 program
   .version(require('../package').version)
   .usage('<command> [options]')
-  // .command('zwcli', 'use zw-vue-cli template(使用zw-vue-cli模板)')
+  .command('init', 'use template')
   .command('custom', 'use custom template(使用远程的自定义模板)')
 
 // 解析命令行参数
