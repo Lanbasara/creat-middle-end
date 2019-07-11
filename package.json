@@ -1,6 +1,6 @@
 {
     "name": "build-react-middle-end",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "快速创建React+Antd+Dva环境的脚手架工具，并默认配置了完善了webpack打包环境",
     "main": "index.js",
     "scripts": {
