@@ -3,7 +3,7 @@
 + Integrate Antd and Dva
 + Useful webpack configuration 
 
-#### 如何使用
+#### How to use
 1. npm i build-react-middle-end -g
 2. build-react-middle-end in any dir you want to start
 3. Finish project name and version following the sign
